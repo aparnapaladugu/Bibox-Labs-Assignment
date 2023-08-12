@@ -1,8 +1,11 @@
 import React from 'react'
+import ProductDescription from './components/ProductDesciption'
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+      <ProductDescription />
+    </div>
   )
 }
 
