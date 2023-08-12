@@ -1,0 +1,22 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Arsenal&family=Poppins:ital,wght@1,300&display=swap');
+
+  *{
+    background-color: beige;
+    /* font-family: 'Arsenal', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+  }
+img{
+    height: 50vh;
+    width: 50vw;
+}
+button{
+  height: fit-content;
+  width: fit-content;
+  background-color: crimson;
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: bisque;
+  font-size: 20px;
+
+}
