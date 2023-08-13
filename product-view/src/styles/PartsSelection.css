@@ -44,10 +44,10 @@
     padding: 20px;
   }
   .part-card{
-    border-radius: 0.375rem; /* Equivalent to rounded-md in Tailwind */
-    border: 2px solid #3b82f6; /* Replace with your border color */
+    border-radius: 0.375rem; 
+    border: 2px solid #3b82f6;
     padding: 20px;
-    background-color: #3b82f6; /* Default background color */
+    background-color: #3b82f6; 
     color: white;
     
   }

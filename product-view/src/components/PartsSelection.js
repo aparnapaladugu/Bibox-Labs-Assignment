@@ -1,8 +1,9 @@
+
 import React from 'react';
 import {Link } from 'react-router-dom';
 import AssembleParts from './AssembleParts';
-import { useStateContext } from '../context/StateProvider';
-import StateProvider from '../context/StateProvider';
+import { useStateContext } from '../StateProvider';
+import StateProvider from '../StateProvider';
 import  '../styles/PartsSelection.css';
 
 const PartsSelection = ({ partsList}) => {

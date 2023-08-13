@@ -41,10 +41,6 @@ const ProductDescription = () => {
           Works like a home AC and maintains the set temperature, thus saving
           fuel by switching compressor off when not needed.
         </p>
-          {/* <p>
-          This is the main content area of the dashboard. You can assemble
-          various parts and combine them.
-        </p> */}
        <p>click here to move next page</p>
        <Link to="/parts">
         <button>Next</button>

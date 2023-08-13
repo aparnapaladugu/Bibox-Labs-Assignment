@@ -1,9 +1,9 @@
-import React from 'react';
+import React from 'react'
 
-const FinalView = () => {
+function FinalView() {
   return (
-    <div>FinalView </div>
-  );
-};
+    <div>FinalView</div>
+  )
+}
 
-export default FinalView;
+export default FinalView
