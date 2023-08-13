@@ -11,9 +11,9 @@ const ProductDescription = () => {
   return (
     <div>
       <center>
-        <h1>Product Description</h1>
+        <h1>Welcome to the Product Page 🚗</h1>
         <img src={carimage} alt="Product" /> &nbsp;&nbsp;
-        {/* <p>
+        <p>
           <h3> Electronic Parking Brake</h3>A feature that allows you to engage
           or disengage the handbrake with the press of a button instead of
           pulling the lever.
@@ -40,11 +40,11 @@ const ProductDescription = () => {
           <h3>Automatic Climate Control</h3>
           Works like a home AC and maintains the set temperature, thus saving
           fuel by switching compressor off when not needed.
-        </p> */}
-          <p>
+        </p>
+          {/* <p>
           This is the main content area of the dashboard. You can assemble
           various parts and combine them.
-        </p>
+        </p> */}
        <p>click here to move next page</p>
        <Link to="/parts">
         <button>Next</button>
